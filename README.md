@@ -2,8 +2,6 @@
 
 This is repository for Course Project 
 
-## Getting and Cleaning Data
-
 ## Course Project
 
   * Source (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) into a folder on your local drive
